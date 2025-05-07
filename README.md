@@ -8,12 +8,11 @@ Uma API simples construída com **Java + Spring ** para gerar QR Codes a partir 
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 17+
+- Java 21
 - Spring Boot
 - AWS SDK (S3)
 - Docker
-- Lombok
-- QR Code Generator (ZXing ou semelhante)
+- QR Code Generator ZXing
 
 ---
 
